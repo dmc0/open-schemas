@@ -1,2 +1,2 @@
 # open-schemas
-Physical schemas for various database engines suitable for various business types and tasks.  
+Physical schemas for various database engines and file formats suitable for various business types and tasks.  
